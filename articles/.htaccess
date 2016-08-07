@@ -1,0 +1,4 @@
+RewriteEngine Off
+#RewriteBase /articles
+
+#RewriteRule (^.*)  index.php [L]

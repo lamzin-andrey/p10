@@ -1,0 +1,102 @@
+
+date: 2015-09-03 12:45:11
+
+==========================================
+
+post:
+
+Array
+(
+    [name] => test
+    [f12] => dsdasddasd
+)
+
+
+RAW:
+
+date: 2015-09-03 12:45:36
+
+==========================================
+
+post:
+
+Array
+(
+    [name] => test2
+    [f12] => dsdasddasd5
+)
+
+
+RAW:
+
+date: 2015-09-03 12:56:48
+
+==========================================
+
+post:
+
+Array
+(
+    [name] => test3
+    [f12] => dsdasddasdddd
+)
+
+
+RAW:
+
+date: 2015-09-03 13:02:39
+
+==========================================
+
+post:
+
+Array
+(
+)
+
+
+RAW:
+
+{"event":"issue_impact_change","payload_type":"issue","payload":{"display_id":2,"method":"Qrolik_developer.UpdateService.alertView (Qrolik_developer.UpdateService)(ObjectiveC.UIAlertView, clickedButtonAtIndex : Swift.Int) -> ()","title":"UpdateService.swift line 121","crashes_count":1,"impacted_devices_count":1,"app":{"name":"Qrolik-developer","bundle_identifier":"com.qrolik.qrolik-developer","platform":"ios"},"url":"https://fabric.io/alexs-projects11111111111440583807/ios/apps/com.qrolik.qrolik-developer/issues/55e818f9f5d3a7f76bc1651d"}}date: 2015-09-16 21:44:19
+
+==========================================
+
+post:
+
+Array
+(
+)
+
+
+RAW:
+
+{"event":"issue_impact_change","payload_type":"issue","payload":{"display_id":3,"method":"-[UITextField canBecomeFirstResponder]","title":"UIKit","crashes_count":1,"impacted_devices_count":1,"app":{"name":"Qrolik-developer","bundle_identifier":"com.qrolik.qrolik-developer","platform":"ios"},"url":"https://fabric.io/alexs-projects11111111111440583807/ios/apps/com.qrolik.qrolik-developer/issues/55f9b885f5d3a7f76b124910"}}date: 2015-09-17 12:08:40
+
+==========================================
+
+post:
+
+Array
+(
+)
+
+
+RAW:
+
+{"event":"verification","payload_type":"none"}date: 2015-09-17 12:23:15
+
+==========================================
+
+post:
+
+Array
+(
+)
+
+
+RAW:
+
+{
+  "event": "verification",
+  "payload_type": "none"
+}
